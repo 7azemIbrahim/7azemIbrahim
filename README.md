@@ -37,7 +37,7 @@ I'm passionate about transforming raw data into meaningful insights and building
 
 ### 🤝 Let's Connect
 
-- 💼 **LinkedIn:** [Connect with me on LinkedIn](www.linkedin.com/in/hazem-ibrahim-8503a628a)
+- 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/hazem-ibrahim-8503a628a/)
 - 📧 **Email:** [7azemibrahim@gmail.com](mailto:7azemibrahim@gmail.com)
 
 I'm open to internships, collaborations, freelance projects, and junior-level opportunities in Data Science and AI.
