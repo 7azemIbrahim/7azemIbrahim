@@ -27,7 +27,7 @@ I'm passionate about transforming raw data into meaningful insights and building
 - A machine learning project that predicts delivery type using maternal and pregnancy-related features.
 - Focuses on data preprocessing, feature engineering, model training, and evaluation.
 
-**2. Data Science Internship Projects**
+**2. Data Science Projects**
 - A collection of projects covering exploratory data analysis, unemployment analysis, car price prediction, and retail sales analysis.
 
 🔗 Explore my repositories: [GitHub Projects](https://github.com/7azemIbrahim?tab=repositories)
@@ -40,10 +40,11 @@ I'm passionate about transforming raw data into meaningful insights and building
 
 ### 🤝 Let's Connect
 
-- 💻 GitHub: [@7azemIbrahim](https://github.com/7azemIbrahim)
+- 💻 **GitHub:** [@7azemIbrahim](https://github.com/7azemIbrahim)
+- 💼 **LinkedIn:** [Connect with me on LinkedIn](www.linkedin.com/in/hazem-ibrahim-8503a628a)
 
-I'm always open to learning opportunities, collaborations, internships, and junior-level opportunities in Data Science and AI.
+I'm open to learning opportunities, collaborations, internships, and junior-level opportunities in Data Science and AI.
 
 ---
 
-⭐ *Thanks for visiting my profile!*
+⭐ Thanks for visiting my profile!
