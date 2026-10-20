@@ -15,7 +15,7 @@ I'm passionate about transforming raw data into meaningful insights and building
 
 **Data Analysis:** Pandas, NumPy, Exploratory Data Analysis (EDA), Data Cleaning
 
-**Machine Learning:** Scikit-learn, Logistic Regression, Decision Trees, Random Forest, XGBoost, CatBoost, Model Evaluation
+**Machine Learning:** Supervised Learning, Regression, Classification, Feature Engineering, Hyperparameter Tuning, Cross-Validation, Model Evaluation
 
 **Visualization:** Matplotlib, Seaborn, Power BI
 
@@ -33,17 +33,14 @@ I'm passionate about transforming raw data into meaningful insights and building
 🔗 Explore my repositories: [GitHub Projects](https://github.com/7azemIbrahim?tab=repositories)
 
 ### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=7azemIbrahim&show_icons=true&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7azemIbrahim&layout=compact&hide_border=true)
 
 ### 🤝 Let's Connect
 
-- 💻 **GitHub:** [@7azemIbrahim](https://github.com/7azemIbrahim)
 - 💼 **LinkedIn:** [Connect with me on LinkedIn](www.linkedin.com/in/hazem-ibrahim-8503a628a)
+- 📧 **Email:** [7azemibrahim@gmail.com](mailto:7azemibrahim@gmail.com)
 
-I'm open to learning opportunities, collaborations, internships, and junior-level opportunities in Data Science and AI.
+I'm open to internships, collaborations, freelance projects, and junior-level opportunities in Data Science and AI.
 
 ---
 
